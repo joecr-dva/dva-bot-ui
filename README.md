@@ -3,4 +3,4 @@ Notes:
 - The chat bot control is [Telerik's Chat control](https://docs.telerik.com/kendo-ui/api/javascript/ui/chat.html) for JQuery. 
 - The control [meets WCAG 2.1 AAA](https://docs.telerik.com/kendo-ui/accessibility/section-508-wcag).
 - Open ``embedTest.html`` to see how it currently looks.
-- Contact Nick if you want an issue submitted to Telerik support using the paid licence.
+
